@@ -1,0 +1,135 @@
+.container{
+    margin: 10px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+
+
+@media all and (max-width:1000px)
+{
+    .h1{
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
+    }  
+    .p{
+        font-size: 30px;
+        justify-content: center;
+        align-items: center;
+    }
+    .img{
+        width: 500;
+        height: 500;
+    }
+}
+   
+
+@media all and (max-width:900px)
+{
+    h1{
+        font-size: 25px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 25px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 500;
+        height: 500;
+    }
+}
+
+
+@media all and (max-width:800px)
+{
+     h1{
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 20px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 600px;
+        height: 600px;
+    }
+   
+}
+
+@media all and (max-width:700px)
+{
+    h1{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 500px;
+        height: 500px;
+    }
+}
+@media all and (max-width:500px)
+{
+    h1{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 300px;
+        height: 300px;
+    }
+}
+@media all and (max-width:400px)
+{
+    h1{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    }
+}
+@media all and (max-width:300px)
+{
+    h1{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }  
+    p{
+        font-size: 16px;
+        justify-content: center;
+        align-items: center;
+    }
+    img{
+        width: 100px;
+        height:100px;
+    }
+}
